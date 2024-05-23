@@ -1,0 +1,15 @@
+main{
+    color: black;
+    background-color: rgba(64, 179, 224, 0); 
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 15px;
+    color: black;
+    } 
+body{ 
+    background-image: url('./pexels-alxs-919734.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p { 
+
+}
